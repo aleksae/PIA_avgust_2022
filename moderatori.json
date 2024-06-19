@@ -1,0 +1,45 @@
+[
+    {
+        "korisnicko_ime": "pera",
+        "lozinka": "pera123",
+        "ime": "Petar",
+        "prezime": "Peric",
+        "disciplina": "bacanje koplja zensko",
+        "takmicari": [
+            "1799",
+            "2010",
+            "1559",
+            "1817",
+            "1997"
+        ]
+    },
+    {
+        "korisnicko_ime": "mika",
+        "lozinka": "mika123",
+        "ime": "Milan",
+        "prezime": "Milovanovic",
+        "disciplina": "troskok zenski",
+        "takmicari": [
+            "2011",
+            "1714",
+            "1759",
+            "2005",
+            "2070",
+            "1799"
+        ]
+    },
+    {
+        "korisnicko_ime": "mara",
+        "lozinka": "mara123",
+        "ime": "Marija",
+        "prezime": "Maric",
+        "disciplina": "skok u dalj zenski",
+        "takmicari": [
+            "2011",
+            "1714",
+            "1759",
+            "2005",
+            "2070"
+        ]
+    }
+]

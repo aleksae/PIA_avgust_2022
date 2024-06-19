@@ -1,0 +1,16 @@
+<html>
+    <head>
+
+    </head>
+    <body>
+        <div style="color:red">{{greska}}</div>
+        K_ime/takmicarski_broj : <input type="text" id="k_ime" [(ngModel)]="k_ime"><br/>
+        Lozinka : <input type="password" id="lozinka" [(ngModel)]="lozinka"><br/>
+        Tip:
+        <select id="tip" [(ngModel)]="tip">
+            <option value="moderator">Moderator</option>
+            <option value="takmicar">Takmicar</option>
+        </select>
+        <button (click)="login()">Prijava</button>
+    </body>
+</html>

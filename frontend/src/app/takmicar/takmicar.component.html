@@ -1,0 +1,19 @@
+{{ulogovan.ime}} [{{ulogovan.broj}}], drzava:{{ulogovan.drzava}} <button (click)="logout()">Odjava</button>
+<div *ngFor="let d of discipline">
+    <table>
+        <tr>
+            <th colspan="2">{{d}}</th>
+        </tr>
+        <tr *ngFor="let r of rezultati">
+            <div *ngIf="r.disciplina==d">
+                <td>
+                    {{r.serija}}
+                </td>
+                <td>
+                    {{r.rezultat}}
+                </td>
+            </div>
+        </tr>
+    </table>
+</div>
+

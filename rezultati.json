@@ -1,0 +1,140 @@
+[
+    {
+        "disciplina": "bacanje koplja zensko",
+        "takmicar_broj": "2010",
+        "serija": 1,
+        "rezultat": "55.14"
+    },
+    {
+        "disciplina": "bacanje koplja zensko",
+        "takmicar_broj": "1817",
+        "serija": 1,
+        "rezultat": "60.57"
+    },
+    {
+        "disciplina": "bacanje koplja zensko",
+        "takmicar_broj": "1799",
+        "serija": 1,
+        "rezultat": "65.81"
+    },
+    {
+        "disciplina": "bacanje koplja zensko",
+        "takmicar_broj": "1997",
+        "serija": 1,
+        "rezultat": "53.79"
+    },
+    {
+        "disciplina": "bacanje koplja zensko",
+        "takmicar_broj": "1559",
+        "serija": 1,
+        "rezultat": "60.31"
+    },
+    {
+        "disciplina": "bacanje koplja zensko",
+        "takmicar_broj": "2010",
+        "serija": 2,
+        "rezultat": "59.64"
+    },
+    {
+        "disciplina": "bacanje koplja zensko",
+        "takmicar_broj": "1817",
+        "serija": 2,
+        "rezultat": "55.14"
+    },
+    {
+        "disciplina": "bacanje koplja zensko",
+        "takmicar_broj": "1799",
+        "serija": 2,
+        "rezultat": "X"
+    },
+    {
+        "disciplina": "bacanje koplja zensko",
+        "takmicar_broj": "1997",
+        "serija": 2,
+        "rezultat": "59.36"
+    },
+    {
+        "disciplina": "bacanje koplja zensko",
+        "takmicar_broj": "1559",
+        "serija": 2,
+        "rezultat": "X"
+    },
+    {
+        "disciplina": "bacanje koplja zensko",
+        "takmicar_broj": "1997",
+        "serija": 3,
+        "rezultat": "53.79"
+    },
+    {
+        "disciplina": "bacanje koplja zensko",
+        "takmicar_broj": "1559",
+        "serija": 3,
+        "rezultat": "60.68"
+    },
+    {
+        "disciplina": "bacanje koplja zensko",
+        "takmicar_broj": "2010",
+        "serija": 3,
+        "rezultat": "62.01"
+    },
+    {
+        "disciplina": "bacanje koplja zensko",
+        "takmicar_broj": "1817",
+        "serija": 3,
+        "rezultat": "57.29"
+    },
+    {
+        "disciplina": "bacanje koplja zensko",
+        "takmicar_broj": "1799",
+        "serija": 3,
+        "rezultat": "64.59"
+    },
+    {
+        "disciplina": "skok u dalj zenski",
+        "takmicar_broj": "2011",
+        "serija": 1,
+        "rezultat": "7.06"
+    },
+    {
+        "disciplina": "skok u dalj zenski",
+        "takmicar_broj": "1714",
+        "serija": 1,
+        "rezultat": "6.69"
+    },
+    {
+        "disciplina": "skok u dalj zenski",
+        "takmicar_broj": "1759",
+        "serija": 1,
+        "rezultat": "6.71"
+    },
+    {
+        "disciplina": "skok u dalj zenski",
+        "takmicar_broj": "2005",
+        "serija": 1,
+        "rezultat": "6.62"
+    },
+    {
+        "disciplina": "skok u dalj zenski",
+        "takmicar_broj": "2011",
+        "serija": 2,
+        "rezultat": "6.96"
+    },
+    {
+        "disciplina": "troskok zenski",
+        "takmicar_broj": "1759",
+        "serija": 1,
+        "rezultat": "14.81"
+    },
+    {
+        "disciplina": "troskok zenski",
+        "takmicar_broj": "1759",
+        "serija": 2,
+        "rezultat": "14.22"
+    },
+    {
+        "disciplina": "troskok zenski",
+        "takmicar_broj": "2011",
+        "serija": 1,
+        "rezultat": "14.51"
+    }
+]
